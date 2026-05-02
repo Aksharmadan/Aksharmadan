@@ -1,20 +1,16 @@
-<!-- HERO -->
+<!-- HERO BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:E01B24&height=260&section=header&text=AKSHAR%20MADAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🕷️%20%20I%20BUILD%20THE%20WEB%20%20🕷️&descAlignY=68&descSize=26&descColor=ffffff&stroke=E01B24&strokeWidth=2"/>
 </div>
 
-<!-- CINEMATIC SPIDER-MAN BANNER -->
+<!-- SPIDER-MAN GIF — proper animated character swinging -->
 <div align="center">
-  <img src="./spiderman.svg" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 </div>
-
-<br/>
 
 <!-- TYPING SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E01B24&center=true&vCenter=true&multiline=false&width=860&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E01B24&center=true&vCenter=true&width=860&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -163,20 +159,20 @@ Built with:  Vanilla JS   Vite   HTML5 Canvas   CSS3 Animations   25+ custom eff
 
 <div align="center">
 
-| | Certification | Issuer | Badge |
-|:--:|:-------------|:------:|:-----:|
-| ☁️ | Google Cloud Data Analytics | Google Cloud | ✅ |
-| 🔒 | Google Cloud Cybersecurity | Google Cloud | ✅ |
-| 🤖 | Oracle AI Foundations Associate | Oracle | ✅ |
-| 🐍 | 100 Days of Code — Python Bootcamp | Udemy | ✅ |
-| 💻 | Software Engineer Certification | HackerRank | ✅ |
-| 🌐 | Web Development Fundamentals | IBM SkillsBuild | ✅ |
-| 📊 | McKinsey Forward Program | McKinsey & Co. | ✅ |
-| 🏦 | Quantitative Research Job Simulation | J.P. Morgan | ✅ |
-| 📈 | GenAI Powered Data Analytics | Tata | ✅ |
-| 🔧 | Technology Job Simulation | Deloitte | ✅ |
-| 🖥️ | AICTE Elevate Virtual Internship | Microsoft | ✅ |
-| 📐 | OOP with Java Fundamentals | NPTEL IIT Kharagpur | ✅ |
+| | Certification | Issuer |
+|:--:|:-------------|:------:|
+| ☁️ | Google Cloud Data Analytics | Google Cloud |
+| 🔒 | Google Cloud Cybersecurity | Google Cloud |
+| 🤖 | Oracle AI Foundations Associate | Oracle |
+| 🐍 | 100 Days of Code — Python Bootcamp | Udemy |
+| 💻 | Software Engineer Certification | HackerRank |
+| 🌐 | Web Development Fundamentals | IBM SkillsBuild |
+| 📊 | McKinsey Forward Program | McKinsey & Co. |
+| 🏦 | Quantitative Research Job Simulation | J.P. Morgan |
+| 📈 | GenAI Powered Data Analytics | Tata |
+| 🔧 | Technology Job Simulation | Deloitte |
+| 🖥️ | AICTE Elevate Virtual Internship | Microsoft |
+| 📐 | OOP with Java Fundamentals | NPTEL IIT Kharagpur |
 
 </div>
 
@@ -192,8 +188,7 @@ Built with:  Vanilla JS   Vite   HTML5 Canvas   CSS3 Animations   25+ custom eff
 
 <div align="center">
 <table width="80%">
-<tr>
-<td>
+<tr><td>
 
 ### 📊 Smart Demand Forecasting in Transportation & Logistics Using ML
 
@@ -205,15 +200,13 @@ research = {
     "program"     : "Undergraduate Research Opportunities Program",
     "domain"      : "Transportation & Logistics",
     "topic"       : "Smart Demand Forecasting Using ML",
-    "methods"     : ["Regression Analysis", "Time Series Forecasting",
-                     "Feature Engineering", "Model Evaluation"],
+    "methods"     : ["Regression", "Time Series", "Feature Engineering"],
     "tools"       : ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
     "status"      : "🟢 ACTIVE"
 }
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 </div>
 
