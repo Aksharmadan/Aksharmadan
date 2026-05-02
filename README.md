@@ -3,9 +3,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:E01B24&height=260&section=header&text=AKSHAR%20MADAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🕷️%20%20I%20BUILD%20THE%20WEB%20%20🕷️&descAlignY=68&descSize=26&descColor=ffffff&stroke=E01B24&strokeWidth=2"/>
 </div>
 
-<!-- SPIDER-MAN GIF — proper animated character swinging -->
+<!-- SPIDER-MAN GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+  <img src="./Spider-Man%20Movie%20GIF%20by%20Box%20Office.gif" width="100%"/>
 </div>
 
 <!-- TYPING SVG -->
@@ -15,7 +15,7 @@
 
 <br/>
 
-<!-- BADGES -->
+<!-- QUICK LINKS -->
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🕷️_PORTFOLIO-LIVE-E01B24?style=for-the-badge&labelColor=0a0a0a)](https://aksharmadan.vercel.app)
@@ -35,17 +35,17 @@
 
 ```javascript
 const akshar = {
-  name        : "Akshar Madan",
-  university  : "SRM IST, Chennai",
-  degree      : "B.Tech CSE — Cloud Computing",
-  cgpa        :  8.65,
-  role        : ["Full Stack Dev", "ML Researcher"],
-  superpower  : "Builds the web 🕷️",
-  status      : "🟢 AVAILABLE FOR HIRE",
-  location    : "Chennai, India 🇮🇳",
+  name           : "Akshar Madan",
+  university     : "SRM IST, Chennai",
+  degree         : "B.Tech CSE — Cloud Computing",
+  cgpa           :  8.65,
+  role           : ["Full Stack Dev", "ML Researcher"],
+  superpower     : "Builds the web 🕷️",
+  status         : "🟢 AVAILABLE FOR HIRE",
+  location       : "Chennai, India 🇮🇳",
   certifications : 12,
-  repos       : 21,
-  hackathons  : 3
+  repos          : 21,
+  hackathons     : 3
 };
 ```
 
