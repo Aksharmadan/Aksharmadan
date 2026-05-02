@@ -7,7 +7,6 @@
 <div align="center">
   <img src="./Spider-Man%20Movie%20GIF%20by%20Box%20Office.gif" width="100%"/>
 </div>
-
 <!-- TYPING SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E01B24&center=true&vCenter=true&width=860&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!" alt="Typing SVG"/>
@@ -95,15 +94,15 @@ const akshar = {
 ## 📊 `< Mission Stats />`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=12" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=12&cache_seconds=1800&rank_icon=github" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=12" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=12&cache_seconds=1800" height="175"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aksharmadan&theme=tokyonight&hide_border=true&background=0D1117&ring=E01B24&fire=FFD700&currStreakLabel=E01B24&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Aksharmadan&theme=tokyonight&hide_border=true&background=0D1117&ring=E01B24&fire=FFD700&currStreakLabel=E01B24&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" width="70%"/>
 </div>
 
 <br/>
