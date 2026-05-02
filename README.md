@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:E01B24&height=300&section=header&text=AKSHAR%20MADAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🕷️%20%20I%20BUILD%20THE%20WEB%20%20🕷️&descAlignY=62&descSize=22&descColor=ffffff&stroke=E01B24&strokeWidth=2"/>
 </div>
 
-<!-- SPIDER-MAN SWINGING OVER NYC -->
+<!-- SPIDER-MAN SWINGING OVER NYC SKYLINE -->
 <div align="center">
   <img src="./spiderman.svg" width="100%"/>
 </div>
