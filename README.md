@@ -94,9 +94,9 @@ const akshar = {
 ## 📊 `< Mission Stats />`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=12&cache_seconds=1800&rank_icon=github" height="175"/>
+  <username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=12&cache_seconds=1800&rank_icon=github" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=12&cache_seconds=1800" height="175"/>
+  <username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=12&cache_seconds=1800" height="175"/>
 </div>
 
 <br/>
