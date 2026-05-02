@@ -9,7 +9,7 @@
 </div>
 <!-- TYPING SVG -->
 <div align="center">
-  <img src="https://font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E01B24&center=true&vCenter=true&width=860&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!" alt="Typing SVG"/>
+  <img src="https://font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=E01B24&center=true&vCenter=true&width=860&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!"/>
 </div>
 
 <br/>
