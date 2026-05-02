@@ -5,8 +5,8 @@
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0d0010,70:1a0005,100:E01B24&height=280&section=header&text=AKSHAR%20MADAN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🕷️%20I%20BUILD%20THE%20WEB%20🕷️&descAlignY=60&descSize=24&descColor=cccccc&stroke=E01B24&strokeWidth=3"/>
 
-<!-- SPIDER-MAN CINEMATIC GIF -->
-<img width="100%" src="https://media.giphy.com/media/xT9IgG50Lg7rusxp0Q/giphy.gif"/>
+<!-- SPIDER-MAN SWINGING GIF - full width cinematic -->
+<img width="100%" src="https://i.pinimg.com/originals/60/8e/6f/608e6f3b6e4e9a2fcc8f2c6f6f6f6f6f.gif"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=E01B24&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%22Not+bitten+by+a+radioactive+spider...%22;%22Just+a+developer+OBSESSED+with+the+web.%22;B.Tech+CSE+%E2%80%94+Cloud+Computing+%7C+SRM+IST;Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;Google+Cloud+%E2%9C%85+Oracle+AI+%E2%9C%85+IBM+%E2%9C%85+HackerRank+%E2%9C%85;%F0%9F%9F%A2+AVAILABLE+FOR+HIRE+%E2%80%94+Send+the+Signal!" alt="Typing SVG" /></a>
@@ -33,7 +33,7 @@
 
 </div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif"/>
+<img align="right" width="280" src="https://media1.giphy.com/media/ENagATV1Gr9eg/giphy.gif"/>
 
 ```javascript
 const akshar = {
@@ -139,8 +139,7 @@ const akshar = {
 > *🎬 A dark, cinematic, scroll-driven portfolio website themed around Spider-Man.*
 > *Built entirely with Vanilla JS + Vite. Feels like an interactive Marvel movie.*
 
-<!-- SPIDEY SWINGING GIF -->
-<img width="60%" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif"/>
+<img width="55%" src="https://media2.giphy.com/media/l3vR5OeXFCIoHjJjG/giphy.gif"/>
 
 </div>
 
@@ -303,8 +302,9 @@ research = {
 
 ## ◈ SEND THE SIGNAL ◈
 
-<!-- SPIDER-MAN SIGNAL GIF -->
-<img width="200" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+<img width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplOHVkd25uOGMwZHkwYjlkb3ZmNjdsNXB3bWpyM3QwcW5mMW43biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzAmPqBVAuEciIsLAQ/giphy.gif"/>
+
+<br/>
 
 *"With great power comes great responsibility."*
 
