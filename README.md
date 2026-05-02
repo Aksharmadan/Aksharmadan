@@ -1,112 +1,146 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ████████╗██╗  ██╗███████╗    ██╗    ██╗███████╗██████╗  -->
+<!-- ╚══██╔══╝██║  ██║██╔════╝    ██║    ██║██╔════╝██╔══██╗ -->
+<!--    ██║   ███████║█████╗      ██║ █╗ ██║█████╗  ██████╔╝ -->
+<!--    ██║   ██╔══██║██╔══╝      ██║███╗██║██╔══╝  ██╔══██╗ -->
+<!--    ██║   ██║  ██║███████╗    ╚███╔███╔╝███████╗██████╔╝ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
 <!-- HERO BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:E01B24&height=280&section=header&text=AKSHAR%20MADAN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🕷️%20%20I%20BUILD%20THE%20WEB%20%20🕷️&descAlignY=65&descSize=24&descColor=ffffff&stroke=E01B24&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0d0010,70:1a0005,100:E01B24&height=280&section=header&text=AKSHAR%20MADAN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🕷️%20I%20BUILD%20THE%20WEB%20🕷️&descAlignY=60&descSize=24&descColor=cccccc&stroke=E01B24&strokeWidth=3"/>
+
+<!-- TYPING ANIMATION — FIXED -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=E01B24&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%22Not+bitten+by+a+radioactive+spider...%22;%22Just+a+developer+OBSESSED+with+the+web.%22;B.Tech+CSE+%E2%80%94+Cloud+Computing+%7C+SRM+IST;Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;Google+Cloud+%E2%9C%85+Oracle+AI+%E2%9C%85+IBM+%E2%9C%85+HackerRank+%E2%9C%85;%F0%9F%9F%A2+AVAILABLE+FOR+HIRE+%E2%80%94+Send+the+Signal!" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- BADGES -->
+<a href="https://aksharmadan.vercel.app">
+<img src="https://img.shields.io/badge/🕷️%20PORTFOLIO-LIVE-E01B24?style=for-the-badge&labelColor=000000&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akshar-madan-539896323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aksharmadan000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.credly.com/users/akshar-madan">
+<img src="https://img.shields.io/badge/Credly-12%20Badges-FF6B35?style=for-the-badge"/></a>
+
 </div>
-
-<!-- SPIDER-MAN — CINEMATIC NYC NIGHT RAIN SCENE -->
-<div align="center">
-  <img src="./spiderman.svg" width="100%"/>
-</div>
-
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=900&color=E01B24&center=true&vCenter=true&width=850&lines=🕷️+Not+bitten+by+a+radioactive+spider...;⚡+Just+a+developer+OBSESSED+with+the+web.;☁️+B.Tech+CSE+%7C+Cloud+Computing+%7C+SRM+IST;🔥+Full+Stack+Dev+%7C+ML+Researcher+%7C+CGPA+8.65;✅+Google+Cloud+%7C+Oracle+AI+%7C+IBM+Certified;🎯+Available+for+Hire+—+Send+the+Signal!" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- QUICK LINKS -->
-<div align="center">
-  <a href="https://aksharmadan.vercel.app">
-    <img src="https://img.shields.io/badge/🕷️_PORTFOLIO-LIVE-E01B24?style=for-the-badge&labelColor=0a0a0a"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/akshar-madan-539896323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="mailto:aksharmadan000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/Aksharmadan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" align="right"/>
+<div align="center">
 
-## 🕷️ The Origin Story
+## ◈ WHO AM I ◈
+
+</div>
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ6bGZxMnhkcWd1NmQyNXRuaGNid2FsaXBxMGEyZjBtdWE0d3ZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ```javascript
 const akshar = {
-  name       : "Akshar Madan",
-  university : "SRM IST, Chennai",
-  degree     : "B.Tech CSE — Cloud Computing",
-  cgpa       :  8.65,
-  role       : "Full Stack Dev & ML Researcher",
-  superpower : "Builds the web 🕷️",
-  status     : "🟢 AVAILABLE FOR HIRE",
-  location   : "Chennai, India 🇮🇳"
+
+  name        : "Akshar Madan",
+  age         : 20,
+  university  : "SRM IST Chennai",
+  degree      : "B.Tech CSE — Cloud Computing",
+  cgpa        :  8.65,
+
+  roles       : [
+    "Full Stack Developer 🌐",
+    "ML Researcher 🧠",
+    "Cloud Engineer ☁️",
+    "Hackathon Organizer 🏗️"
+  ],
+
+  superpower  : "Builds the web 🕷️",
+  repos       : 21,
+  certs       : 12,
+  status      : "🟢 AVAILABLE FOR HIRE",
+  location    : "Chennai, India 🇮🇳"
+
 };
 ```
 
-- 🔭 **UROP Research** — Smart Demand Forecasting using ML
-- 🌱 Learning **Advanced Cloud & AI/ML Systems**
-- 🚀 Built a **[Spider-Man Portfolio](https://aksharmadan.vercel.app)** — cinematic & interactive
-- 💼 Open to **internships** & **collaborations**
-- ⚡ **21 GitHub repos** · **12 Certifications** · **3 Hackathons**
+<br/>
+
+**🔭 Currently** — Smart Demand Forecasting using ML *(UROP Research @ SRMIST)*
+
+**🚀 Built** — [Spider-Man themed Portfolio](https://aksharmadan.vercel.app) — cinematic & interactive
+
+**🌱 Learning** — Advanced Cloud Architecture & AI/ML Systems
+
+**💼 Open to** — Internships · Collaborations · Freelance Projects
 
 <br clear="right"/>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
 
-## 🛠️ The Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html&theme=dark&perline=6"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,mysql,gcp,git&theme=dark&perline=6"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,tailwind&theme=dark&perline=6"/>
-</div>
-
----
-
-## 📊 Mission Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=10" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=10" height="170"/>
-</div>
+## ◈ THE ARSENAL ◈
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aksharmadan&theme=tokyonight&hide_border=true&background=0D1117&ring=E01B24&fire=FFD700&currStreakLabel=E01B24&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark"/>
+
+<br/><br/>
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,mysql,gcp,git,github,vscode,linux&theme=dark"/>
+
+<br/><br/>
+
+**Proficiency**
+
+| Skill | Level | Bar |
+|:------|:-----:|:----|
+| JavaScript | 88% | `████████████████████░░░` |
+| React | 85% | `████████████████████░░░` |
+| Python | 82% | `███████████████████░░░░` |
+| Node.js | 78% | `██████████████████░░░░░` |
+| Cloud | 80% | `███████████████████░░░░` |
+| Git | 90% | `█████████████████████░░` |
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## ◈ MISSION STATS ◈
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aksharmadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&icon_color=E01B24&text_color=ffffff&count_private=true&border_radius=12" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharmadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E01B24&text_color=ffffff&border_radius=12" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aksharmadan&theme=tokyonight&hide_border=true&background=0D1117&ring=E01B24&fire=FFD700&currStreakLabel=E01B24&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" width="700"/>
+
 </div>
 
-## 🚀 Featured Mission — Spider-Man Portfolio
+---
 
 <div align="center">
 
-> *🎬 A dark, cinematic, scroll-driven portfolio. Feels like stepping into an interactive Marvel movie.*
+## ◈ FEATURED MISSION ◈
+
+### 🕷️ Spider-Man Portfolio — WEB.DEV
 
 <a href="https://aksharmadan.vercel.app">
-  <img src="https://img.shields.io/badge/🕷️_OPEN_LIVE_SITE-aksharmadan.vercel.app-E01B24?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🔴%20OPEN%20LIVE%20SITE-aksharmadan.vercel.app-E01B24?style=for-the-badge&labelColor=000000"/>
 </a>
+
+<br/><br/>
+
+> *🎬 A dark, cinematic, scroll-driven portfolio website themed around Spider-Man.*
+> *Built entirely with Vanilla JS + Vite. Feels like an interactive Marvel movie.*
 
 </div>
 
@@ -114,157 +148,195 @@ const akshar = {
 
 <table>
 <tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/NYC_SKYLINE-Rain_%2B_Lightning-1a1a2e?style=for-the-badge&logo=cloudfoundry&logoColor=E01B24"/>
+<td valign="top" width="50%">
+
+**🌆 Environment**
+- NYC skyline with animated rain + lightning
+- Aurora borealis waves behind the city
+- Morphing red/blue lava lamp background
+- Parallax cloud system + police helicopter
+- Matrix code rain falling in projects section
+- Film grain + CRT scanline overlay
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/SPIDEY-Scroll_Driven-E01B24?style=for-the-badge&logo=spinnaker&logoColor=white"/>
+<td valign="top" width="50%">
+
+**🕷️ Spider-Man System**
+- Spidey position tied to scroll progress
+- Arm literally tracks your cursor in real time
+- Speech bubbles with dev quotes per section
+- Ghost Spidey follows cursor in background
+- Idle cocoon + zzz after 10s of inactivity
+- Type `AKSHAR` → Spidey does a backflip
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/GAME-WEB.RUNNER-FFD700?style=for-the-badge&logo=gamepad&logoColor=black"/>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🎮 Interactive**
+- `WEB.RUNNER` — full endless runner game
+- 3D tilt effect on all project cards
+- Text shatters into pieces on hero click
+- Magnetic buttons jump toward cursor
+- Water ripple ring on every click
+- Shockwave rings on section enter
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/25%2B-ANIMATIONS-1A56DB?style=for-the-badge&logo=framer&logoColor=white"/>
+<td valign="top" width="50%">
+
+**🏆 Easter Eggs**
+- Type `MARVEL` → full Marvel cinematic intro
+- `↑↑↓↓←→←→BA` Konami code → Marvel fanfare
+- Hidden 🕷 → opens secret classified dossier
+- Achievement unlock system with toasts
+- Green Goblin randomly flies across screen
+- Boot terminal types your skills on scroll
+
 </td>
 </tr>
 </table>
 
-```
-🌆  NYC skyline · Rain · Lightning · Aurora borealis · Parallax city
-🕷️  Spidey moves with scroll · Speech bubbles · Arm tracks cursor
-🎮  WEB.RUNNER endless runner game built from scratch in Canvas
-💻  Boot terminal · VS Code bio · Matrix rain · Helicopter · Goblin
-✨  Liquid cursor · Shockwaves · Gold dust · Film grain · Scanlines
-🏆  Achievement system · Secret room · Konami code · Easter eggs
-```
-
-**Built with:** `Vanilla JS` `Vite` `HTML5 Canvas` `CSS3 Animations`
-
----
-
-## 🏅 Certifications
-
 <div align="center">
 
-| 🏆 | Certification | 🏢 Issuer |
-|:--:|:-------------|:---------|
-| ☁️ | Google Cloud Data Analytics | Google Cloud |
-| 🔒 | Google Cloud Cybersecurity | Google Cloud |
-| 🤖 | Oracle AI Foundations Associate | Oracle |
-| 🐍 | 100 Days of Code — Python | Udemy |
-| 💻 | Software Engineer Certification | HackerRank |
-| 🌐 | Web Development Fundamentals | IBM SkillsBuild |
-| 📊 | McKinsey Forward Program | McKinsey & Co. |
-| 🏦 | Quantitative Research Simulation | J.P. Morgan |
-| 📈 | GenAI Powered Data Analytics | Tata |
-| 🔧 | Technology Job Simulation | Deloitte |
-| 🖥️ | AICTE Elevate Internship | Microsoft |
-| 📐 | OOP Fundamentals | NPTEL IIT Kharagpur |
+**Built with:** `Vanilla JS` &nbsp;·&nbsp; `Vite` &nbsp;·&nbsp; `HTML5 Canvas` &nbsp;·&nbsp; `CSS3 Animations` &nbsp;·&nbsp; `Google Fonts`
 
-</div>
-
-<div align="center">
-  <a href="https://www.credly.com/users/akshar-madan">
-    <img src="https://img.shields.io/badge/🏅_View_All_12_Verified_Badges-Credly-FF6B35?style=for-the-badge"/>
-  </a>
 </div>
 
 ---
 
-## 🔬 Research Mission
-
 <div align="center">
+
+## ◈ CERTIFICATIONS ◈
+
+</div>
+
 <table>
-<tr><td>
+<tr>
+<td width="50%" valign="top">
 
-**📊 Smart Demand Forecasting in Transportation & Logistics Using ML**
+**☁️ Cloud & AI**
+- Google Cloud Data Analytics Certificate
+- Google Cloud Cybersecurity Certificate
+- Oracle AI Foundations Associate
+- Tata GenAI Powered Data Analytics
 
-`UROP — SRMIST` · `Aug 2025 – Present`
+**💻 Development**
+- 100 Days of Code — Python (Udemy)
+- Web Development Fundamentals (IBM)
+- AICTE Microsoft Elevate Internship
+- OOP Fundamentals (NPTEL IIT KGP)
+
+</td>
+<td width="50%" valign="top">
+
+**🏢 Industry Simulations**
+- HackerRank Software Engineer Cert
+- McKinsey Forward Program
+- Deloitte Technology Job Simulation
+- J.P. Morgan Quantitative Research
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://www.credly.com/users/akshar-madan">
+<img src="https://img.shields.io/badge/🏅%20View%20All%2012%20Verified%20Badges%20on%20Credly-FF6B35?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ RESEARCH ◈
+
+</div>
+
+> **📊 Smart Demand Forecasting in Transportation & Logistics Using ML**
+> *Undergraduate Research Opportunities Programme (UROP) — SRMIST · Aug 2025 – Present*
 
 ```python
 research = {
-  "topic"    : "Transportation Demand Forecasting",
-  "methods"  : ["Regression", "Time Series", "Feature Engineering"],
-  "tools"    : ["Python", "ML Models", "Data Analytics"],
-  "status"   : "🟢 ACTIVE"
+    "topic"     : "Transportation & Logistics Demand Forecasting",
+    "methods"   : ["Regression", "Time-Series", "Feature Engineering", "EDA"],
+    "tools"     : ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+    "outcome"   : "Optimized forecasting models for real-world supply chains",
+    "status"    : "🟢 ACTIVE — UROP SRMIST"
 }
 ```
 
-</td></tr>
-</table>
-</div>
-
 ---
 
-## 🎯 Hackathons
-
 <div align="center">
+
+## ◈ HACKATHONS ◈
+
+</div>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  🏗️  ORGANIZING  ──▶  Heisen Hack      │  SRM ACM  │  Dec 2025  ║
-║  💡  COMPETED    ──▶  Pitch & Patch    │  Alexa    │  Jan 2026  ║
-║  🚀  COMPETED    ──▶  IDEANOVA 2.0     │  Newton   │  Nov 2025  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🏗️  ORGANIZING  ──▶  Heisen Hack      │ SRM ACM SIGKDD │ Dec 2025 │
+│   💡  COMPETED    ──▶  Pitch & Patch    │ Alexa Dev SRM  │ Jan 2026 │
+│   🚀  COMPETED    ──▶  IDEANOVA 2.0     │ Newton School  │ Nov 2025 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+<div align="center">
+
+## ◈ ACTIVITY ◈
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksharmadan&bg_color=0D1117&color=E01B24&line=E01B24&point=FFD700&area=true&hide_border=true&area_color=330000&radius=6"/>
+
 </div>
 
 ---
 
-## 📈 Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksharmadan&bg_color=0D1117&color=E01B24&line=E01B24&point=FFD700&area=true&hide_border=true&area_color=1a0000"/>
-</div>
 
----
+## ◈ SEND THE SIGNAL ◈
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
+*"With great power comes great responsibility."*
 
-## 🌐 Send The Signal
-
-<div align="center">
+<br/>
 
 <a href="https://aksharmadan.vercel.app">
-  <img src="https://img.shields.io/badge/🕷️_Portfolio-aksharmadan.vercel.app-E01B24?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/🕷️%20Portfolio-aksharmadan.vercel.app-E01B24?style=for-the-badge&labelColor=000000"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/akshar-madan-539896323/">
-  <img src="https://img.shields.io/badge/LinkedIn-Akshar_Madan-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-Akshar%20Madan-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://github.com/Aksharmadan">
-  <img src="https://img.shields.io/badge/GitHub-Aksharmadan-181717?style=for-the-badge&logo=github"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-Aksharmadan-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.hackerrank.com/profile/aksharmadan000">
-  <img src="https://img.shields.io/badge/HackerRank-aksharmadan000-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
+<img src="https://img.shields.io/badge/HackerRank-aksharmadan000-2EC866?style=for-the-badge&logo=hackerrank"/></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://leetcode.com/u/zuzVBU5EdU/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/></a>
 <a href="https://www.credly.com/users/akshar-madan">
-  <img src="https://img.shields.io/badge/Credly-12_Badges-FF6B35?style=for-the-badge"/>
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Credly-12%20Badges-FF6B35?style=for-the-badge"/></a>
 <a href="mailto:aksharmadan000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-aksharmadan000-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://img.shields.io/badge/Gmail-aksharmadan000%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Aksharmadan&color=E01B24&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Aksharmadan?style=for-the-badge&color=E01B24&labelColor=0a0a0a&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Aksharmadan?style=for-the-badge&color=E01B24&labelColor=000000&label=FOLLOWERS"/>
 
-</div>
+<br/><br/>
 
-<!-- FOOTER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E01B24,100:000000&height=140&section=footer&text=With+great+code+comes+great+responsibility+🕷️&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E01B24,50:0d0010,100:000000&height=140&section=footer&text=🕷️%20WEB.DEV%20—%20AKSHAR%20MADAN&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
